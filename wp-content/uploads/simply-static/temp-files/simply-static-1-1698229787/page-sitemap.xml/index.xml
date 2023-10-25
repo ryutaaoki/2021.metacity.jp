@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- このサイトマップは、WordPressの元のSEOプラグインであるAll in One SEOによって生成された動的でした。 -->
+
+<?xml-stylesheet type="text/xsl" href="./../default.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[./../sample-page/]]>/index.html</loc>
+		<lastmod><![CDATA[2021-05-19T01:56:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[./../]]>/index.html</loc>
+		<lastmod><![CDATA[2021-08-09T03:30:15+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+	</url>
+</urlset>
